@@ -1,0 +1,17 @@
+.searchBar{
+  position: absolute;
+                top:85px;
+                left:15px;
+                height: 30px;
+                width: 50px;
+}
+button.btn.btn-secondary{
+  margin-top: 20px;
+  width:300px;
+  margin-left: 15px;
+
+}
+.heading1{
+  margin-left: 15px;
+}
+ 
